@@ -1,0 +1,10 @@
+.login-btn{
+  background: #605b5b;
+  display: inline-block;
+  padding: 2px 12px;
+  border-radius: 6px;
+  &:hover{
+  filter: brightness(1.1);
+}
+  &:active{filter: brightness(0.9);}
+}
